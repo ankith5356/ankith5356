@@ -1,5 +1,28 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>📘 Java problem solving<br>⚛️ React Notes App (useState, forms)<br><br>👯 I’m looking to collaborate on<br>💻 Beginner React & Frontend projects<br><br>🤝 I’m looking for help with<br>🧠 Optimizing Java logic<br>⚛️ React best practices<br><br>🌱 I’m currently learning<br>☕ Java (Loops, OOPS)<br>⚛️ React (State, Forms, Hooks)<br>🎨 Tailwind CSS<br>🎬 GSAP basics<br><br>💬 Ask me about<br>☕ Java basics | ⚛️ React forms | 🎨 UI layouts<br>⚡ Fun fact<br>I build strong foundations before scaling up 🚀<br><br>☕ Java | ⚛️ React | 🎨 Tailwind CSS | 🌐 HTML | 🎨 CSS | 🎬 GSAP
+🔭 I’m currently working on<br>
+⚛️ Full React Applications (Routing, Context API, API Integration)<br>
+📘 Java Problem Solving & OOPS Strengthening<br><br>
+
+👯 I’m looking to collaborate on<br>
+💻 React Frontend & API-based Projects<br><br>
+
+🤝 I’m looking for help with<br>
+🚀 Advanced React Patterns & Performance Optimization<br>
+☕ Writing Clean & Optimized Java Logic<br><br>
+
+🌱 I’m currently learning<br>
+☕ Java (OOPS, Logic Building, Interview Problems)<br>
+⚛️ React (Hooks, Routing, Context, API Integration)<br>
+🎨 Tailwind CSS<br>
+🎬 GSAP (ScrollTrigger & UI Animations)<br><br>
+
+💬 Ask me about<br>
+☕ Java Basics & OOPS | ⚛️ React (State, Routing, Context, API) | 🎨 Clean UI Layouts<br>
+
+⚡ Fun fact<br>
+I focus on strong fundamentals and build real-world projects step by step 🚀<br><br>
+
+☕ Java | ⚛️ React | 🎨 Tailwind CSS | 🌐 HTML | 🎨 CSS | 🎬 GSAP | 🌍 API Integration
 
 
 # 💻 Tech Stack:
